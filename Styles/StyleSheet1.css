@@ -1,0 +1,37 @@
+﻿header {
+    background-color: #FF7A7A;
+    padding-top: 1px;
+}
+
+    header > h1 {
+        color: azure;
+        font-size: 60px;
+        margin-top: 0px;
+        font-family: Mistral;
+        text-align: center;
+    }
+
+section {
+    padding: 0px;
+}
+
+    section > h2 {
+        text-align: center;
+        font-size: 70px;
+        padding: 0px;
+        margin-left: 125px;
+        font-family: Mistral;
+    }
+
+    section > button {
+        float: right;
+        margin-right: 20px;
+        height: 30px;
+        background-color: #FF7A7A;
+        color: azure;
+        border-color: #FF7A7A;
+    }
+
+.colorfulBorder > area {
+    background-color: #FF7A7A;
+}
